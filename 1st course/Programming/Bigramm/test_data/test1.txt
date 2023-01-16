@@ -1,0 +1,6 @@
+at the beginning of the century, the german abbot johann trisemus proposed encrypting two letters at a time. 
+ciphers using a similar principle were called bigram ciphers. 
+usually such ciphers use tables similar to the polybius square, filled with the characters of the alphabet used. 
+the most famous bigram cipher is called playfair. 
+it was used by great britain in the first world war. 
+the plaintext was divided into pairs of letters and the encryption text was constructed from it according to the following three very simple rules.
